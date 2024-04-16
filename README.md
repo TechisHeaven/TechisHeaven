@@ -1,4 +1,4 @@
-Hello Dev's :) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hey Dev 👋 What's Up? :)
 ================================================================================================================================
 
 Full Stack Web Developer
@@ -8,8 +8,8 @@ Hey, I am a Full stack Web Developer and has been working for 2 year with startu
 
 * 🌍  I'm based in New Delhi , India
 * ✉️  You can contact me at [vermajihimanshu2004@gmail.com](mailto:vermajihimanshu2004@gmail.com)
-* 🧠  I'm learning Next JS , React JS , Solidity , ES6 JavaScript , Supabase
-* ⚡  And a BCA Student too.
+* 🧠  I'm learning Rust, Next JS, React JS, ES6 JavaScript, Solidity
+* ⚡  And a BCA Student.
 
 ### Skills
 
